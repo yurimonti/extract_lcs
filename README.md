@@ -29,6 +29,7 @@ extractlcs <first_input_file_path> <second_input_file_path> <output_file_path>
 ```
 
 ##License & copyright
+
 © Yuri Monti , Unicam University of Camerino
 
 Licensed under the [MIT License](LICENSE).
